@@ -1,0 +1,2 @@
+C:\Users\tkosh\.dotnet\MyFirstAzureWebApp\bin\Debug\net8.0\MyFirstAzureWebApp.exe
+C:\Users\tkosh\.dotnet\MyFirstAzureWebApp\bin\Debug\net8.0\MyFirstAzureWebApp.dll
